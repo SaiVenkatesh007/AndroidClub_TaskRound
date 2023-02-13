@@ -1,4 +1,4 @@
-# AndroidClub_TaskRound
+# Diabetes Classifier
 
 Binary Classifier: Diabetes or not
 <br> <br>
